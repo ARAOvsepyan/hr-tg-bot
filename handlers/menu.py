@@ -37,7 +37,7 @@ async def show_workshops(message: Message):
         for ws in WORKSHOPS_LIST
     )
     await message.answer(
-        "🎓 Доступные воркшопы:\n\n" + workshops_text,
+        "📚Доступные воркшопы в HR:\n\n" + workshops_text,
         reply_markup=workshops_kb()
     )
 

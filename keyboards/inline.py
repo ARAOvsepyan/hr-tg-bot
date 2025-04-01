@@ -42,7 +42,7 @@ def workshops_kb() -> InlineKeyboardMarkup:
     builder = InlineKeyboardBuilder()
     for workshop in WORKSHOPS_LIST:
         builder.add(InlineKeyboardButton(
-            text=workshop['title'],
+            text=workshop['button_text'],
             url=workshop['link']
         ))
     builder.adjust(2)

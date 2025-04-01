@@ -1,28 +1,33 @@
 WORKSHOPS_LIST = [
     {
-        "title": "HR-Аудит и Организационное развитие: оптимизация управления и бизнес-процессов",
+        "title": "📌HR-Аудит и Организационное развитие: оптимизация управления и бизнес-процессов",
+        "button_text": "HR-Аудит и Оргразвитие",
         "link": "https://top-career.ru/promo/orgdesign",
     },
     {
-        "title": "Путь к роли HR BP: от обычного HR до реального бизнес-партнера",
+        "title": "📌Путь к роли HR BP: от обычного HR до реального бизнес-партнера",
+        "button_text": "Путь к роли HR BP",
         "link": "https://top-career.ru/promo/hrbp",
     },
     {
-        "title": "Топ онлайн-курсов обучения в HR в 2024 году",
+        "title": "📌Топ онлайн-курсов обучения в HR в 2024 году",
+        "button_text": "Топ онлайн-курсов 2024",
         "link": "https://vc.ru/courses/management/hr"
     },
     {
-        "title": "HR для топ-менеджеров",
+        "title": "📌HR для топ-менеджеров",
+        "button_text": "HR для топ-менеджеров",
         "link": "https://eduson.academy/hr-business?utm_source=cpa&utm_medium=advcake&utm_campaign=affiliate&utm_content=ff8c7013&advcake_params=db3e877f6fab6ec6a68b5e59857fc4d8&utm_term=db3e877f6fab6ec6a68b5e59857fc4d8&erid=LdtCKXSTq&advcake_method=4&m=4"
     },
     {
-        "title": "HR-менеджер с нуля",
+        "title": "📌HR-менеджер с нуля",
+        "button_text": "HR-менеджер с нуля",
         "link": "https://mipo.msk.ru/professions/hr-i-upravlenie-personalom/hr-menedzher-s-nulya?utm_source=yandex&utm_medium=cpc&utm_campaign=search_hr_manager_russia&utm_content=15064794378&utm_term=курсы%20hr&yclid=11949106394514063359"
     }
 ]
 
 TRENDS_2025 = """
-📌 <b>HR-Тренды 2025 года</b> 🌐
+<b>HR-Тренды 2025 года</b> 🌐
 
 🔹 <a href='https://youtu.be/SPjJGtMJMJY?feature=shared'>HR в Дубае: автоматизация, рынок труда и адаптация сотрудников в ОАЭ</a>
 
